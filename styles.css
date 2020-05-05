@@ -1,0 +1,44 @@
+body {
+    background-color: antiquewhite;
+    margin: 0%;
+    background-image: url("elephant.png");
+
+}
+
+img {
+    width: 380px; 
+height: 480px;
+margin-left: 25%;
+
+}
+
+header {
+    margin-bottom: 5%;
+    
+
+}
+
+nav { float: right;
+    margin-right:40%;
+    
+    
+}
+
+h1 {     
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+display: block;
+
+}
+
+section {
+    padding-right: 20%;
+    padding-left: 20%;
+}
